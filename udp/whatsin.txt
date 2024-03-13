@@ -1,0 +1,5 @@
+we use udp for  creating the chat room
+we can connect n #of clients by using udp
+we need to enter the name and  the  start chatting
+the messages exchanging over clients can be visible in server side
+we wont mention the ip addr as we used localhost in the server.py
