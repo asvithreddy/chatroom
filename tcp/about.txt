@@ -1,0 +1,17 @@
+this chatroom is done by using tcp
+
+we need to connect clients after running the server file
+
+this chatroom consists of many functions
+    handle_client
+    send_msg
+    send_file
+    send_chat_history
+    send-private_msg
+    save message
+    search_chat_history
+
+this consists of ssl
+
+to send_file: we need to enter the file path in the terminal
+    then the file data will be sent to the client
